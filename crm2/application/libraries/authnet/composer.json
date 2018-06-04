@@ -1,0 +1,8 @@
+{
+    "require": {
+        "authorizenet/authorizenet": "^1.9",
+        "mailgun/mailgun-php": "^2.3",
+        "php-http/guzzle6-adapter": "^1.1",
+        "php-http/curl-client": "^1.7"
+    }
+}
